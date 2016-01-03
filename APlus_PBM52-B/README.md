@@ -2,7 +2,7 @@
 This bracket securely mounts a A+ 5200 mAh Li-Ion powerpack to the bike stem. Great for using as an iPhone backup battery underneath the handlebar stem on your bike.
 
 ## Image
-![ScreenShot](https://raw.githubusercontent.com/thenoizz/powerpack-bracket/master/APlus_PBM52-B/images/APlus_PBM52-B-4.jpg)
+![ScreenShot](https://raw.githubusercontent.com/thenoizz/bike-brackets/master/APlus_PBM52-B/images/APlus_PBM52-B-1.jpg)
 
 ## Matching Powerpack
 http://www.emag.ro/acumulator-extern-a-5200-mah-black-blue-pbm52-bl/pd/DHZJMMBBM/
